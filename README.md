@@ -29,7 +29,22 @@ Diabetic retinopathy is a progressive eye disease caused by complications of dia
 ## Model Training 
 ![image](https://github.com/sanjail3/AI-medical-Imaging-for-Diabetes-Retinopathy/assets/86285670/447ac036-835e-411c-9b55-e0d6eaefdcf9)
 
-[Link to get model](https://drive.google.com/file/d/1vam6-qkQR0br_9xYk7Q965FzP629TBFc/view)
+The Best model is stored in google drive You can get [Link to get model](https://drive.google.com/file/d/1vam6-qkQR0br_9xYk7Q965FzP629TBFc/view)
+
+## Way To Run our Project
+1.Install all the requirements by running this command in terminal
+```
+pip install -r requirements.txt
+```
+
+
+2.Run the app typing this command in terminal
+
+```
+streamlit run app.py
+```
+
+  
 
 
 
