@@ -21,6 +21,22 @@ Diabetic retinopathy is a progressive eye disease caused by complications of dia
 
 ![image](https://github.com/sanjail3/AI-medical-Imaging-for-Diabetes-Retinopathy/assets/86285670/3b36ebe1-3675-4401-8391-6ac1449995d5)
 
+![image](https://github.com/sanjail3/AI-medical-Imaging-for-Diabetes-Retinopathy/assets/86285670/19b88238-c85a-4aa4-aa53-dbae3792ed3d)
+
+### Future Work
+![647e9cb4d4738_HackAIthon (1) pptx (3)](https://github.com/sanjail3/AI-medical-Imaging-for-Diabetes-Retinopathy/assets/86285670/10ccf9f6-2ec7-4e44-9796-db5914c5167a)
+
+## Model Training 
+![image](https://github.com/sanjail3/AI-medical-Imaging-for-Diabetes-Retinopathy/assets/86285670/447ac036-835e-411c-9b55-e0d6eaefdcf9)
+
+[Link to get model](https://drive.google.com/file/d/1vam6-qkQR0br_9xYk7Q965FzP629TBFc/view)
+
+
+
+
+
+
+
 
 
 
