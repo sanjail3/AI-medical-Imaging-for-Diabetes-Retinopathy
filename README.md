@@ -6,7 +6,7 @@ Our AI-based solution for retinopathy diagnosis offers a web application that ut
 
 Read [blog](https://naveenkumar-nk.hashnode.dev/revolutionizing-diabetic-retinopathy-diagnosis-the-power-of-ai-in-medical-imaging)
 
-Watch [ Demo Video]()
+Watch [ Demo Video](https://youtu.be/9aLZ4-WGIsI)
 
 ## Overview
 
@@ -21,7 +21,8 @@ Diabetic retinopathy is a progressive eye disease caused by complications of dia
 
 ![image](https://github.com/sanjail3/AI-medical-Imaging-for-Diabetes-Retinopathy/assets/86285670/3b36ebe1-3675-4401-8391-6ac1449995d5)
 
-![image](https://github.com/sanjail3/AI-medical-Imaging-for-Diabetes-Retinopathy/assets/86285670/19b88238-c85a-4aa4-aa53-dbae3792ed3d)
+<img width="724" alt="image" src="https://github.com/sanjail3/AI-medical-Imaging-for-Diabetes-Retinopathy/assets/86285670/53851a26-fa62-4f0c-bcbf-fe6bef6a5a82">
+
 
 ### Future Work
 ![647e9cb4d4738_HackAIthon (1) pptx (3)](https://github.com/sanjail3/AI-medical-Imaging-for-Diabetes-Retinopathy/assets/86285670/10ccf9f6-2ec7-4e44-9796-db5914c5167a)
